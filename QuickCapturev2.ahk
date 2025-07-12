@@ -1,7 +1,7 @@
 ﻿#Requires AutoHotkey v2.0
 
 ; ATTENTION: You only have to change this line! 
-webhookUrl := "https://hook.us2.make.com/a74nfetwnq9unwfe5v8afbbgk4d3g5po"
+webhookUrl := ""
 
 
 
